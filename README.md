@@ -44,7 +44,7 @@ Se emplean técnicas de **limpieza de datos, análisis exploratorio, regresión,
 ## 🖼️ Vista previa
 Ejemplo de visualización de correlaciones y PCA generadas durante el análisis:
 
-![Gráfica PCA](https://raw.githubusercontent.com/tuusuario/turepositorio/main/imagenes/pca_plot.png)
+![Gráfica PCA](https://github.com/amymarlene/Analisis-de-Datos---Segmentacion/blob/main/pca.png?raw=true)
 
 ---
 
