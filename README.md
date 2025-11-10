@@ -1,6 +1,6 @@
 # 🧠 Global Suicide, Mental Health & Substance Use Trends
 
-![Ejemplo de análisis de datos](https://raw.githubusercontent.com/tuusuario/turepositorio/main/imagenes/analisis_ejemplo.png)
+![Ejemplo de análisis de datos]https://github.com/amymarlene/Analisis-de-Datos---Segmentacion/blob/main/realvspredi.png?raw=true
 
 ## 📊 Descripción general
 Este proyecto analiza datos globales sobre **tasas de suicidio, salud mental y consumo de sustancias** para identificar patrones y relaciones entre factores socioeconómicos y de salud pública.
